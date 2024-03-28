@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/employee-dashboard",
+    "/landing",
+    "/manager-dashboard",
+    "/superuser-dashboard"
+  ]
+}
